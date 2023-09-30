@@ -13,6 +13,51 @@ Job creation
 cucumber project , stepdef , feature, reports
 ---------------------------------------------------
 
-git clone :  to get a project/folder/repository
+git clone :  to get a project/folder/repository into your local system
 
 git clone <path>
+------------------
+
+git status :   to get status of your repository 
+
+--------------------
+
+git add <file name>  : this will add file logically to the branch
+
+git commit -m"msg to specify"  : it will create a commit id
+
+git push origin <branch name>  : it will finally push your local code to web repository
+
+--------------
+git pull : it gets all latest thng from main git/branch
+
+git branch -a : show all branches, and will put * on current branch 
+
+git checkout <branchname >  : jump/switch to another branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
