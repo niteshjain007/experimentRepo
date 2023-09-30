@@ -36,7 +36,7 @@ git branch -a : show all branches, and will put * on current branch
 git checkout <branchname >  : jump/switch to another branch
 
 
-
+----------------------------
 
 
 
